@@ -1,0 +1,9 @@
+.jumbotron {
+  background-color: lightseagreen;
+  text-decoration-color: white;
+
+}
+
+.panel > .panel-heading {
+  background-color: lightseagreen;
+}
